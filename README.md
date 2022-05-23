@@ -1,4 +1,4 @@
-# 🏰 Migração do Jogo Matching Game para React
+# 💡 Migração do Jogo Matching Game para React
 
 Trabalho de estudo...
 
